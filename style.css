@@ -1,0 +1,26 @@
+        <style>
+            .wrapper {
+                margin:50px auto;
+                width: 1024px;
+                background-color: #29ADC3;
+                padding: 15px;
+            }
+            form {
+                padding:10px;
+                background-color: #D6D2B4;
+            }
+            .gallery {
+                background-color: #D6D2B4;
+                padding: 10px;
+            }
+            table {
+                border-spacing: 10px;
+            }
+            td {
+                padding:5px;
+                background-color: #DCECE4;
+            }
+            .error {
+                color: red;
+            }
+        </style>
